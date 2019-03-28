@@ -1,3 +1,8 @@
+// ADDED THE BAMAZON HOMEWORK TO MY PORTFOLIO
+//CHECK IT OUT... https://jermainehunter.github.io/Bootstrap-Portfolio/portfolio.html
+
+
+
 var mysql = require("mysql");
 var inquirer = require("inquirer");
 
